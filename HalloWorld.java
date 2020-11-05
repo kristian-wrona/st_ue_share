@@ -4,6 +4,7 @@ public class HalloWorld {
         System.out.println("Kristian Wrona");
         System.out.println("TEST TEST");
         System.out.println("new information");
+	System.out.println("Win! Win!");
 	}
 
 }
