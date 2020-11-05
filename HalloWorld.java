@@ -5,6 +5,7 @@ public class HalloWorld {
         System.out.println("TEST TEST");
         System.out.println("new information");
 	System.out.println("Win! Win!");
+	System.out.println("new version");
 	}
 
 }
